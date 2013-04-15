@@ -45,6 +45,8 @@ $(window).simpleInfiniteScroll({
 });
 ```
 
+The `callback` can take the same 3 parameters as jQuery ajax, `data`, `textStatus`, and `jqXHR`.
+
 Support
 ----------
 
