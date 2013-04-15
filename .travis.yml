@@ -6,5 +6,5 @@ branches:
   only:
   - master
 before_script:
-  - "sudo npm i -g jasmine-node"
-  - "sudo npm i -g jasmine-jquery"
+  - "npm i -g jasmine-node"
+  - "npm i -g jasmine-jquery"
