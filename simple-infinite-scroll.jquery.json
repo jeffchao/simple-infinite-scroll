@@ -1,0 +1,36 @@
+{
+  "name": "simple-infinite-scroll",
+  "version": "0.1.0",
+  "title": "jQuery Simple Infinite Scroll",
+  "author": {
+    "name": "Jeff Chao",
+    "email": "jeffchao@me.com",
+    "url": "http://www.thejeffchao.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "description": "A simple jQuery plugin to be used for handling pagination on vertical scroll",
+  "keywords": [
+    "infinite",
+    "vertical",
+    "scroll",
+    "paginate"
+    ],
+  "homepage": "http://github.com/jnaru/simple-infinite-scroll",
+  "bugs": "https://github.com/jnaru/simple-infinite-scroll/issues",
+  "docs": "https://github.com/jnaru/simple-infinite-scroll",
+  "dependencies": {
+    "jquery": ">=1.8"
+  },
+  "maintainers": [
+    {
+      "name": "Jeff Chao",
+      "email": "jeffchao@me.com",
+      "url": "http://www.thejeffchao.com"
+    }
+  ]
+}
