@@ -1,6 +1,6 @@
 # Simple Infinite Scroll
 
-[![Build Status](https://travis-ci.org/jnaru/simple-infinite-scroll.png)](https://travis-ci.org/[jnaru]/[simple-infinite-scroll])
+[![Build Status](https://travis-ci.org/jnaru/simple-infinite-scroll.png?branch=master)](https://travis-ci.org/jnaru/simple-infinite-scroll)
 
 A simple jQuery plugin to be used for handling pagination on vertical scroll.
 
