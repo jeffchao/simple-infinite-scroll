@@ -4,7 +4,7 @@
   "description": "A simple jQuery plugin to be used for handling pagination on vertical scroll",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jnaru/simple-infinite-scroll.git"
+    "url": "https://github.com/jeffchao/simple-infinite-scroll.git"
   },
   "author": "Jeff Chao <jeffchao@me.com>",
   "maintainers": "Jeff Chao <jeffchao@me.com>",
