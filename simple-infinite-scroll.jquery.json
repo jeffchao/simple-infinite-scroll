@@ -1,6 +1,6 @@
 {
   "name": "simple-infinite-scroll",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "title": "jQuery Simple Infinite Scroll",
   "author": {
     "name": "Jeff Chao",
@@ -20,9 +20,9 @@
     "scroll",
     "paginate"
     ],
-  "homepage": "http://github.com/jnaru/simple-infinite-scroll",
-  "bugs": "https://github.com/jnaru/simple-infinite-scroll/issues",
-  "docs": "https://github.com/jnaru/simple-infinite-scroll",
+  "homepage": "http://github.com/jeffchao/simple-infinite-scroll",
+  "bugs": "https://github.com/jeffchao/simple-infinite-scroll/issues",
+  "docs": "https://github.com/jeffchao/simple-infinite-scroll",
   "dependencies": {
     "jquery": ">=1.8"
   },
