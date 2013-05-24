@@ -2,7 +2,7 @@
   Simple Infinite Scroll
 
   + https://github.com/jnaru/simple-infinite-scroll
-  + version 0.1.2
+  + version 0.1.3
   + Copyright 2013/14 Jeff Chao
   + Licensed under the MIT license
 */
