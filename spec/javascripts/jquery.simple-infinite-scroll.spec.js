@@ -1,7 +1,7 @@
-jQuery = require('jquery');
-$ = jQuery;
 window = require('jsdom').jsdom().createWindow();
 document = window.document;
+jQuery = require('jquery');
+$ = jQuery;
 jqueryJasmine = require('jasmine-jquery');
 
 require('../../src/jquery.simple-infinite-scroll');
